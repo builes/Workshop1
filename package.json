@@ -1,4 +1,26 @@
 {
+  "name": "Workshop1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx webpack --mode development",
+    "build": "npx webpack --mode production",
+    "start": "npx webpack",
+    "serve": "npx webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builes/Workshop1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/builes/Workshop1/issues"
+  },
+  "homepage": "https://github.com/builes/Workshop1#readme",
   "dependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.13.16",
