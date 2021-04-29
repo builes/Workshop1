@@ -19,7 +19,7 @@ module.exports = {
   plugins: [
     //Esto lo que hace es convertir el html de la ruta que le digamos en un nuevo archivo html en la carpeta bunlde
     new HTMLWebpackPlugin({
-      template: "./src/index.html",
+      template: "./src/registro.html",
       minify: {
         collapseWhitespace: true,
         removeComments: true,
