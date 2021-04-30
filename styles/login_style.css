@@ -1,8 +1,18 @@
 #ingresar{
     padding: 2em;
-   
 }
 
+
+#texto{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    }
+
+p{
+
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
 .form-check{
 text-align: left;
 }
@@ -12,6 +22,51 @@ text-align: left;
 }
 
 #principe{
-    
     padding: 1em;
+}
+
+#contenedor{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+a{
+    color:black
+
+}
+
+
+
+#marcador{
+    align-items: auto;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    
+
+}
+
+
+.box img{
+    width: 100%;
+    height: auto;
+
+}
+
+#otros {
+    width: 1200;
+    padding: 50px;
+    margin-top: 30%;
+    margin-bottom: 20%;
+
+}
+
+.rounded{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50%;
+}
+
+#parrafo{
+    margin-top: 100px;
 }
