@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Nombre" : "Crown SweatShirt",
+    "Imagen" : "../img/Rectangle 1.png",
+    "Imagen2" : "../img/Rectangle 2.png",
+    "Imagen3" : "../img/Rectangle 3.png",
+    "Precio" : "80000",
+    "Cantidad" : 3
+  },
+  {
+    "id": 2,
+    "Nombre" : "Friends Shirt",
+    "Imagen" : "../img/Frame 20.png",
+    "Imagen2" : "../img/Frame 21.png",
+    "Imagen3" : "../img/Frame 22.png",
+    "Precio" : "80000",
+    "Cantidad" : 5
+  },
+  {
+    "id": 3,
+    "Nombre" : "Fresh Shirt",
+    "Imagen" : "../img/Frame 14.png",
+    "Imagen2" : "../img/Frame 15.png",
+    "Imagen3" : "../img/Frame 16.png",
+    "Precio" : "75000",
+    "Cantidad" : 6
+  },
+  {
+    "id": 4,
+    "Nombre" : "Fresh Prince",
+    "Imagen" : "../img/Frame 18.png",
+    "Imagen2" : "../img/Frame 19.png",
+    "Imagen3" : "../img/Rectangle 4.png",
+    "Precio" : "90000",
+    "Cantidad" : 4
+  }
+]
